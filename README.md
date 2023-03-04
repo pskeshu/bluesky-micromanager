@@ -10,3 +10,6 @@ The most basic object in the Micro-Manager system architecture to control a devi
 
 MMCore is implemented in C++. However, with SWIG, the interfaces can be accessed in scripting languages such as python.
 
+# Device abstraction in bluesky
+Bluesky 
+
